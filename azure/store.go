@@ -13,7 +13,7 @@ import (
 
 	az "github.com/Azure/azure-sdk-for-go/storage"
 	"github.com/araddon/gou"
-	"github.com/lytics/cloudstorage"
+	"github.com/gocontrib/cloudstorage"
 	"github.com/pborman/uuid"
 	"golang.org/x/net/context"
 	"golang.org/x/sync/errgroup"

@@ -7,9 +7,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/lytics/cloudstorage"
-	"github.com/lytics/cloudstorage/localfs"
-	"github.com/lytics/cloudstorage/testutils"
+	"github.com/gocontrib/cloudstorage"
+	"github.com/gocontrib/cloudstorage/localfs"
+	"github.com/gocontrib/cloudstorage/testutils"
 )
 
 func TestAll(t *testing.T) {

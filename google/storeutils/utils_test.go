@@ -8,8 +8,8 @@ import (
 	"golang.org/x/net/context"
 	"google.golang.org/api/option"
 
-	"github.com/lytics/cloudstorage"
-	"github.com/lytics/cloudstorage/google"
+	"github.com/gocontrib/cloudstorage"
+	"github.com/gocontrib/cloudstorage/google"
 )
 
 var testBucket = os.Getenv("TESTBUCKET")

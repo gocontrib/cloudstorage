@@ -8,8 +8,8 @@ import (
 	"github.com/araddon/gou"
 	"google.golang.org/api/iterator"
 
-	"github.com/lytics/cloudstorage"
-	"github.com/lytics/cloudstorage/azure"
+	"github.com/gocontrib/cloudstorage"
+	"github.com/gocontrib/cloudstorage/azure"
 )
 
 /*

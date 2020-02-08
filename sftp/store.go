@@ -15,7 +15,7 @@ import (
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/net/context"
 
-	"github.com/lytics/cloudstorage"
+	"github.com/gocontrib/cloudstorage"
 )
 
 const (
